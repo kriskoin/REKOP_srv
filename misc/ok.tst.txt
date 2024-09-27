@@ -1,0 +1,1 @@
+fastmail -f "Desert Poker" -F "cris@kkrekop.io cris@e-mediasoftware.com" -s "Full player info" "tmp_msg" "cris@kkrekop.io cris@e-mediasoftware.com"

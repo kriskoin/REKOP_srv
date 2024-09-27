@@ -1,0 +1,15 @@
+\
+		case 4:  //LogGameStart
+			char table_name[32];
+                        line_escape_white(line, line2);
+                        sscanf(line2, "%s\t%s\t%s\t%d\t%d\t%s\t%d\t%d\t%d\%d\t%d\t%d", \
+                                buf, buf, buf, &game_serial_number, &table_serial_number, \
+                                table_name, &game_rules, &chip_type, &big_blind_amount, &small_blind_amount, \
+				&button, &tournament_buyin);
+                        line_restore_white(table_name);
+                        sprintf(buf, "('%s',%d,%d,'%s',%d,%d,%d,%d,%d,%d)", time_str,
+                                game_serial_number, table_serial_number, table_name,
+				game_rules, chip_type, big_blind_amount, small_blind_amount, 
+                                button, tournament_buyin);
+
+			break;

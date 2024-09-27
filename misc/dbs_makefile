@@ -1,0 +1,26 @@
+      DIR = .
+      OBJ = .
+      LIB = $(DIR)/dbm.a
+      HPATH = ../../pplib/gamedata.h
+      IPATH = -I$(DIR) -I../../pplib
+
+      CC = gcc
+
+      .PRECIOUS: $(DIR)/dbm.a $(OBJ)/dbs
+
+      all: $(OBJ)/dbs
+ 
+      $(OBJ)/dbs: $(LIB)
+	ar x $(DIR)/dbm.a dbs.o
+	$(CC) dbs.o $(LIB) $(LIB) -lm -o $@
+	rm dbs.o
+	chmod 0711 $@
+	chown root $@
+
+      $(DIR)/dbm.a: \
+        $(DIR)/dbm.a($(DIR)/dbs.o) \
+
+      .cpp.a: $(HPATH)
+	$(CC) -c $(IPATH) $< -o $*.o
+	ar r $@ $*.o
+	rm -f $*.o

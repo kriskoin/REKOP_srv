@@ -1,0 +1,2 @@
+mv /poker/src/pokersrv /poker/src/pokersrv_bak
+cp /pokert/src/pokersrv /poker/src/pokersrv

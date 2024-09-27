@@ -1,0 +1,1002 @@
+# DesertPoker.txt - modifications will be read in next time server is run
+# player_id,fullname_n,gendr,u_id,pw,city,email,real_bank,real_play,fake_bank,fake_play,hands,flops,rivs,valid_rec
+00000001,DSPAF10000,2,cristian,cristian,Costa Rica,cris2@kkrekop.io,0,0,193900,0,8,4,2,1,DSPAF10000,,10
+00000002,DSPAF10000,2,cris,cristian,Co,cris7775@hotmail.com,99977150,0,30110100,0,100529,460,375,1,DSPAF10000,,50
+00000003,,2,Cynthia,cristian,LA,cris2@kkrekop.io,0,0,6962799,0,1350475,136604,50777,1,DSPAF10000,,33
+00000004,,2,Linda,cristian,NY,cris2@kkrekop.io,0,0,50349749,0,2027541,386684,138396,1,DSPAF10000,,33
+00000005,,2,Miles,cristian,LA,cris2@kkrekop.io,0,0,42476499,0,2299282,503321,178536,1,DSPAF10000,,33
+00000006,,2,Mark,cristian,NY,cris2@kkrekop.io,0,0,102351024,0,2532060,551384,197120,1,DSPAF10000,,33
+00000007,,2,Jennifer,cristian,NY,cris2@kkrekop.io,0,0,99,0,1160677,75069,28101,1,DSPAF10000,,33
+00000008,DSPAF10000,2,Paula,cristian,LA,cris@kkrekop.io,0,0,49,0,1338628,132969,49927,1,DSPAF10000,,35
+00000009,,2,Denis,cristian,San Jose (FL),cris2@kkrekop.io,0,0,128444449,0,1309451,412651,148986,1,DSPAF10000,,33
+00000010,,2,Lency,cristian,NY,cris2@kkrekop.io,0,0,80501125,0,2526889,571731,200633,1,DSPAF10000,,33
+00000011,,2,Fred,cristian,NY,cris2@kkrekop.io,0,0,49,0,1122783,77746,28326,1,DSPAF10000,,33
+00000012,,2,Froilan,cristian,Faty,cris2@kkrekop.io,0,0,1484724,0,483865,159951,58526,1,DSPAF10000,,33
+00000013,DSPAF10000,2,Daniel,cristian,San Jose (FL),cris2@kkrekop.io,0,0,224325949,0,2086570,675331,240313,1,DSPAF10000,,35
+00000014,,2,Fabian,cristian,Palo Alto,cris2@kkrekop.io,0,0,160372549,0,1852855,630530,223442,1,DSPAF10000,,33
+00000015,,2,Andres,cristian,Kansas,cris2@kkrekop.io,0,0,121940099,0,1409649,477815,170012,1,DSPAF10000,,33
+00000016,,2,Chani,cristian,asdj (FL),cris2@kkrekop.io,0,0,62875949,0,1467477,502279,178829,1,DSPAF10000,,33
+00000017,,2,Jose,cristian,Eto mas (CA),cris2@kkrekop.io,0,0,49,0,616482,200481,72825,1,DSPAF10000,,33
+00000018,,2,Victor,cristian,Wileck (DU),cris2@kkrekop.io,0,0,162915674,0,1679115,553995,198311,1,DSPAF10000,,33
+00000019,,2,Jonathan,cristian,mar(domin),cris2@kkrekop.io,0,0,52962799,0,1471382,492827,176472,1,DSPAF10000,,33
+00000020,,2,Sofia,cristian,miami,cris2@kkrekop.io,0,0,0,0,100009087,9179,3396,1,DSPAF10000,,33
+00000021,,2,Ester,cristian,miami,cris2@kkrekop.io,0,0,108541374,0,1620413,534905,190900,1,DSPAF10000,,33
+00000022,,2,Marcela,cristian,miami,cris2@kkrekop.io,0,0,138307999,0,1819704,582065,208048,1,DSPAF10000,,33
+00000023,DSPAF10000,2,Estela,cristian,miami,ahern@kkrekop.io,0,0,122634624,0,1839748,646949,227668,1,DSPAF10000,,35
+00000024,,2,Angelo,cristian,NY,cris2@kkrekop.io,0,0,74794049,0,1678833,489295,179261,1,DSPAF10000,,33
+00000025,,2,Mauricio,cristian,Vervena,cris2@kkrekop.io,0,0,99,0,426044,114744,43680,1,DSPAF10000,,33
+00000026,,2,Marco,cristian,UK,cris2@kkrekop.io,0,0,24651224,0,1418735,497111,175795,1,DSPAF10000,,33
+00000027,,2,Ricardo69,cristian,Sanfra (CA),cris2@kkrekop.io,0,0,94391499,0,1715534,601560,213659,1,DSPAF10000,,33
+00000028,,2,Amalia69,cristian,Ot (il),cris2@kkrekop.io,0,0,96784674,0,1549732,568644,200320,1,DSPAF10000,,33
+00000029,,2,Kris,cristian,depp,cris2@kkrekop.io,0,0,85264899,0,1372577,472185,168446,1,DSPAF10000,,33
+00000030,,2,alex456,cristian,wiki (fi),cris2@kkrekop.io,0,0,117073399,0,1662297,536175,191824,1,DSPAF10000,,33
+00000031,,2,mar798,cristian,Paris,cris2@kkrekop.io,0,0,99999999,0,1453,338,123,1,DSPAF10000,,33
+00000032,,2,cristian2,cristian,,cris@kkrekop.io,0,0,200000,0,0,0,0,1,,,10
+00000033,Paul,2,IAMCANADIAN,iamcanadian,Vancouver,paul@e-mediasoftware.com,400,0,7027500,0,2321,1607,892,1,,Rademaker,20
+00000034,,2,acehigh,acehigh,,manfred@kkrekop.io,25,0,2132000,0,1375,1029,679,1,,,50
+00000035,Javier,2,Javier,1234567,Barva,javierfonsec@hotmail.com,97550,0,9114250,0,810,408,238,1,,Fonseca,20
+00000036,,2,Fonseca,1234567,,javier@e-mediasoftware.com,0,0,200000,0,0,0,0,1,,,10
+00000037,Cristian,2,cris7775,cristian,Zpote,cris@e-mediasoftware.com,0,0,63150,0,149,129,105,1,,Castro Vargas,20
+00000038,,2,Fulano,aaaaaaaaaaaaaa,,ee@eer.com,0,0,200000,0,0,0,0,1,,,10
+00000039,,2,Sutano,1234567,,see@eer.com,0,0,200000,0,0,0,0,1,,,10
+00000040,,2,Jutano,1234567,,aee@eer.com,0,0,200000,0,0,0,0,1,,,10
+00000041,,2,jtest1,1234567,,j1@ee.com,0,0,200000,0,0,0,0,1,,,10
+00000042,,2,jtest2,1234567,,j2@ee.com,0,0,200000,0,0,0,0,1,,,10
+00000043,,2,prueba,1234567,,cris@c.com,0,0,200000,0,0,0,0,1,,,10
+00000044,,2,prueba2,1234567,,cr@c.com,0,0,200000,0,0,0,0,1,,,10
+00000045,,2,cristian3,cristian,,cris7775@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000046,,2,MadOperaUser,madoperauser,,riqui@operamail.com,0,0,200000,0,0,0,0,1,,,10
+00000047,,2,operauser,operaopera,,riqui@operamail.com,0,0,200000,0,0,0,0,1,,,10
+00000048,,2,manny10,manny10,,man_alvarez@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000049,,2,thepro,thepro2004,,malvarez@austermail.com,0,0,200000,0,0,0,0,1,,,10
+00000050,,2,Savior1999,december17,,jonathan@sagi.com,0,0,785000,0,15,15,14,1,,,10
+00000051,,2,Cookie,cookie1,,erikahomez@hotmail.com,0,0,200000,0,0,0,0,1,,,20
+00000052,,2,Rich888,japscat,Fairfax,richardalexus@yahoo.com,6050,0,168500,0,288,251,155,1,,Bejarano,20
+00000053,,2,rick888,japscat,,richbej@costarricense.cr,0,0,200000,0,0,0,0,1,,,10
+00000054,,2,legalos,annapolis,,frank@bmeg.com,0,0,112500,0,29,24,14,1,,,10
+00000055,,2,esmitperez,1234567,,esmitperez@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000056,,2,esmitp2,1234567,,esmitp@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000057,,2,esmitp3,1234567,,esmitp3@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000058,,2,unafiliado,1234567,,unafiliado@affs.com,0,0,200000,0,0,0,0,1,,,10
+00000059,,2,limpbizkit,1234567,,limp@ps.co.cr,0,0,200000,0,0,0,0,1,,,10
+00000060,,2,unaprueba123,1234567,,unaprueba@test.com,0,0,200000,0,0,0,0,1,,,10
+00000061,,2,esmitperez23,1234567,,esmitperez23@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000062,,2,lole888,japscat,Miami,richardalexus@yahoo.com,63900,0,411400,0,571,503,333,1,,Richards,20
+00000063,,2,handyman,handyman,,erika_matthias@yahoo.com,4475,0,302000,0,1396,1285,958,1,,,20
+00000064,,2,Dr.Bob,12345678,,abai_15@yahoo.com,0,0,200000,0,0,0,0,1,,,10
+00000065,,3,aileen,xanadu0,,aileen@kkrekop.io,950,0,200000,0,0,0,0,1,,,10
+00000066,,2,uniqueplayerid,1234567,,esmitcasino@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000067,,3,veronica,xanadu0,Miami,veronica@kkrekop.io,100000,0,75,0,51,42,37,1,,Chase,50
+00000068,,2,uniqueplayerid2,1234567,,uniqueplayerid@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000069,,2,probando,unanueva,,prueba@new.com,0,0,200000,0,0,0,0,1,,,10
+00000070,,2,enblanco,1234567,,esmitperezenblanco@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000071,,2,enblanco2,1234567,,esmitperezenblanco2@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000072,,2,enblanco5,1234567,,esmitperezenblanco5@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000073,,2,denuevo,1234567,,pp@new.com,0,0,200000,0,0,0,0,1,,,10
+00000074,,2,Dr.James,123456789,,andrewbejarano@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000075,,2,Alex888,japscat,Fairfax,rick@kkrekop.io,253125,0,287050,0,1542,1257,686,1,,Collins,20
+00000076,,2,cardking,cardking,,man_alvarez@yahoo.com,0,0,200000,0,0,0,0,1,,,10
+00000077,John,2,Dr.OPP,123456789,Washington DC,nacion007@hotmail.com,0,0,96000,0,7,3,2,1,,Kennedy,20
+00000078,,2,esmitperez9,1234567,,esmitperez7@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000079,,2,unapersona,1234567,,unapersona@test.com,0,0,200000,0,0,0,0,1,,,10
+00000080,,2,unapersona67,1234567,,unapersona99@test.com,0,0,200000,0,0,0,0,1,,,10
+00000081,,2,unapersona68,1234567,,unapersona88@test.com,0,0,200000,0,0,0,0,1,,,10
+00000082,,2,root,,,,0,0,200000,0,0,0,0,1,,,10
+00000083,,2,oneaff123,1234567,,esmit@puntosoluciones.com,0,0,200000,0,0,0,0,1,,,10
+00000084,,2,oneaff1234,1234567,,esmit2@puntosoluciones.com,0,0,200000,0,0,0,0,1,,,10
+00000085,,2,fatboy,cacacaca,,chat@internet.com,0,0,200000,0,0,0,0,1,,,10
+00000086,,2,dasd,sdds,,dssdd@sadsd.com,0,0,200000,0,0,0,0,1,,,10
+00000087,,2,ress,ssss,,dss@dsds.cas,0,0,200000,0,0,0,0,1,,,10
+00000088,,2,weee,dsds,,dsds,0,0,200000,0,0,0,0,1,,,10
+00000089,,2,uuuuu,uu,,u,0,0,200000,0,0,0,0,1,,,10
+00000090,,2,rolos,dsdsds,,sdsas,0,0,200000,0,0,0,0,1,,,10
+00000091,,2,nuevomg,nuevomg,,nuevo2@x.com,0,0,200000,0,0,0,0,1,,,10
+00000092,,2,homerjsimpson,simpson,,wallochs@msoe.edu,0,0,200000,0,0,0,0,1,,,10
+00000093,,2,pussy1,testing123,,man_alvarez@expressmail.net,0,0,200000,0,0,0,0,1,,,10
+00000094,,2,jps828,sammer7,,jps828@yahoo.com,0,0,198900,0,4,2,1,1,,,10
+00000095,,2,viper88,nicholas,,chuaken@hotmail.com,0,0,1197950,0,219,141,93,1,,,10
+00000096,William,2,consultant,ww835270,San Diego,consultant@san.rr.com,0,0,40000,0,24,19,13,1,,Welsome,20
+00000097,,2,J8J8J8,Scott21,,viz2a@yahoo.com,0,0,200000,0,0,0,0,1,,,10
+00000098,,2,rodocop,rodocop,,rperez@kkrekop.io,94550,0,248500,0,85,53,36,1,,,20
+00000099,,2,bloodman,1234567,,runderwood@kkrekop.io,95400,0,394250,0,138,75,42,1,,,20
+00000100,,2,veronica1,xanadu0,,veronicachasepoker@yahoo.com,0,0,200000,0,9,5,3,1,,,10
+00000101,,2,themthem,themthem,,mlehmann@cantv.net,0,0,200000,0,0,0,0,1,,,10
+00000102,,2,sheyjon,hassani,,shahriarnassiri2000@yahoo.com,0,0,226500,0,257,152,75,1,,,20
+00000103,,2,snowteam,djebel07,,loulbideau@aol.com,0,0,200000,0,0,0,0,1,,,10
+00000104,,2,azure doc,28azure28,,laterjack@aol.com,0,0,550000,0,60,31,23,1,,,10
+00000105,,2,TheDuke,theduke123,,bobby@kkrekop.io,496550,0,3994850,0,1280,864,543,1,,,20
+00000106,,2,Allinallthetime,tatumhunter,C,ahern@kkrekop.io,10541875,0,201500,0,1160,845,605,1,,kOX,20
+00000107,,2,Dr.Poker,123456789,,andrewbejarano15@hotmail.com,0,0,22900,0,95,59,33,1,,,50
+00000108,,2,brianmk24,12241979,,briankluck@yahoo.com,0,0,323500,0,83,44,19,1,,,10
+00000109,,2,hardway,28marlin28,,azurecharters@aol.com,1236445,0,200000,0,0,0,0,1,,,10
+00000110,,2,MrKorny,N7268784,,davidkornmann@earthlink.net,0,0,200000,0,0,0,0,1,,,10
+00000111,,2,theythey,theythey,,matthias.lehmann@cantv.net,0,0,200000,0,0,0,0,1,,,10
+00000112,,2,sheshe,SHESHEshe,,erika@kkrekop.io,0,0,200000,0,0,0,0,1,,,10
+00000113,,2,alexus888,japscat,,richardbejarano@expressmail.net,0,0,200000,0,0,0,0,1,,,10
+00000114,,2,iceman,nicholas,,ken@724bingo.com,0,0,200000,0,0,0,0,1,,,10
+00000115,,2,Robot1,cxa,,des,583200,0,199300,0,250,40,14,1,,,10
+00000116,,2,Robot2,dsa,,dsa,0,0,200700,0,250,40,14,1,,,10
+00000117,,2,Robot3,fd,,sad,0,0,200000,0,0,0,0,1,,,10
+00000118,,2,Robot4,dsa,,sda,561000,0,200000,0,0,0,0,1,,,10
+00000119,,2,Robot6,fd,,ds,0,0,200000,0,0,0,0,1,,,10
+00000120,,2,mauricio2,mauricio2,,mauricio2@ps.co.cr,0,0,200000,0,0,0,0,1,,,10
+00000121,,2,geronimo,1234567,,ger@new.com,0,0,200000,0,0,0,0,1,,,10
+00000122,,2,malparido,malparido,,mail@mail.com,0,0,200000,0,0,0,0,1,,,10
+00000123,,2,ressssssss,dsdsd,,dsdss,0,0,200000,0,0,0,0,1,,,10
+00000124,,2,dpnoble1,booji1218,,pdddnoble@yahoo.com,0,0,200000,0,0,0,0,1,,,10
+00000125,,2,lquesada,1234567,,luisques@hotmail.com,0,0,281000,0,12,6,2,1,,,10
+00000126,,2,playerid,password,,cris2@e-mediasoftware.com,0,0,200000,0,0,0,0,1,,,10
+00000127,,2,player,password,,pass@email.com,0,0,200000,0,0,0,0,1,,,10
+00000128,Harry,2,Gamblier,gamblier,Canonsburg,mashabella2000@yahoo.com,0,0,199600,0,1,1,0,1,,Gardner,20
+00000129,,2,SlapDaddy,desertpoker,,strapalini@hotmail.com,0,0,185000,0,10,6,2,1,,,10
+00000130,,2,bigmoney,bigmoney,,man_alvarez@yahoomail.com,0,0,200000,0,0,0,0,1,,,10
+00000131,,2,pitboss1,aileenb,,aileenb,0,0,200000,0,0,0,0,1,,,10
+00000132,,2,pokergirl,xanadu0,Denver,aileenbejarano@yahoo.com,600075,0,165000,0,1290,1075,852,1,,,20
+00000133,,2,pokermama,xanadu0,,aileen_bejarano@hotmail.com,132350,0,160000,0,276,213,162,1,,,20
+00000134,,2,johnsuperduper,123456,,123456,0,0,200000,0,0,0,0,1,,,10
+00000135,,2,federico,federico,fhfh,federico,150800,0,5000,0,180,143,106,1,,gsdfgdsfgds,20
+00000136,Cristian,2,moneyTest,cristian,sdf gfds gfdg,cris@kkrekop.io,189600,0,2586850,0,104,74,55,1,,Castro V,20
+00000137,,2,Tournaments,desert,,desert,1377100,0,200000,0,0,0,0,1,,,10
+00000138,,2,Rake,rake,,rake,803800,0,200000,0,0,0,0,1,,,10
+00000139,,2,Marketing,marketing,,marketing,0,0,200000,0,0,0,0,1,,,10
+00000140,,2,Error,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000141,,2,Ecash,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000142,,2,EcashFee,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000143,,2,Misc.,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000144,,2,Pending,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000145,,2,DraftsIn,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000146,,2,BadBeats,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000147,,2,Prizes,error,,error,0,0,200000,0,0,0,0,1,,,10
+00000148,,2,BlackHole,error,,error,-144507420,0,1908215623,0,0,0,0,1,,,10
+00000149,,2,Quagmire,revolutions,,Matrix,0,0,200000,0,0,0,0,1,,,10
+00000150,,2,number23,123545,,asas,707200,0,200000,0,10,7,7,1,,,20
+00000151,,2,gasolina,gus6667575,,hylcosta@sol.racsa.co.cr,0,0,820000,0,200,97,39,1,,,10
+00000152,,2,test888,japscat,,rickscorpio2003@yahoo.com,0,0,200000,0,0,0,0,1,,,10
+00000153,,2,test777,japscat,,richbej69@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000154,,2,pegger1,delnairb,,Bloomfield,100000,0,133650,0,166,84,35,1,,,20
+00000155,,2,loislane2,superman,,superm@n.com,0,0,200000,0,0,0,0,1,,,10
+00000156,DA,2,batman,batmancity,CIUDAD DESCONOC,goth@m.com,0,0,200000,0,0,0,0,1,,,10
+00000157,,2,NewPlayer,12345,M,prueba,0,0,200000,0,0,0,0,1,,,10
+00000158,,2,NewPlayer2,12345,M,12345,0,0,200000,0,0,0,0,1,,,10
+00000159,,2,player5,12345,anywhere,new@player.com,0,0,200000,0,0,0,0,1,,,10
+00000160,,2,player6,12345,anywhere,new@player5.com,0,0,200000,0,0,0,0,1,,,10
+00000161,,2,nuevo7,12345,aaa,ass,0,0,200000,0,0,0,0,1,,,10
+00000162,,2,admplayer,12345,aaa,aa#a@ccc.com,0,0,200000,0,0,0,0,1,,,10
+00000163,,2,mariolo,46122350,CIUDAD DESCONOC,marzempa@hotmail.com,100000,0,182300,0,130,60,30,1,,,10
+00000164,DA,2,enrique,5555666,CIUDAD DESCONOC,rm100099@hotmail.com,100000,0,200000,0,0,0,0,1,,,10
+00000165,DA,2,pandora,rdm0103,CIUDAD DESCONOC,mmcguirk@cox.net,100000,0,200000,0,0,0,0,1,,,10
+00000166,DA,2,waseca bob,asweetaffair,CIUDAD DESCONOC,asweetaffair@hotmail.com,100000,0,200000,0,0,0,0,1,,,10
+00000167,DA,2,khonka,30eopb30,CIUDAD DESCONOC,sosfl@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000168,DA,2,alanrobb,barbara,CIUDAD DESCONOC,ila28@sbcglobal.net,100000,0,200000,0,0,0,0,1,,,10
+00000169,,2,hotkate,6520qas,M,stiwana786@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000170,DA,2,abe_ace,19041702,CIUDAD DESCONOC,maje_tico@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000171,DA,2,imozymandias,l1fesucks,New Brighton,ckersey@comcast.net,0,0,201300,0,63,33,13,1,,,10
+00000172,,2,kurt24,everclear,M,slider19ca@yahoo.com,0,0,180000,0,4,2,1,1,,,10
+00000173,,2,chappy4,cubscubs,M,jndchap@verizon.net,0,0,200000,0,0,0,0,1,,,10
+00000174,jason,2,shadyj,threes3,sorgues,freshjw@hotmail.com,100000,0,200000,0,0,0,0,1,,walters,20
+00000175,Ricardo,2,ricardo,ricardo,fasd,ricardogang@costarricense.cr,1169650,0,42400,0,14,9,9,1,,Gang,20
+00000176,,2,banana10,friday1,M,jeff@bmeg.com,0,0,200000,0,0,0,0,1,,,10
+00000177,,2,brewer#1,scb1178,M,scb1178@aol.com,0,0,200000,0,0,0,0,1,,,10
+00000178,DA,2,vegaschazz,boot116kirk053,CIUDAD DESCONOC,marmannc@aol.com,100000,0,200000,0,0,0,0,1,,,10
+00000179,DA,2,werankpoker,max123,CIUDAD DESCONOC,werankpoker@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000180,DA,2,johnrich,johnrich123,CIUDAD DESCONOC,cardroomreview@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000181,,2,fyyyssstt,sad,caca,sdadadsa@caca.com,0,0,200000,0,0,0,0,1,,,10
+00000182,DA,2,pokerfan,pokerfan,CIUDAD DESCONOC,freddy21_798@hotmail.com,0,0,200000,0,0,0,0,1,,,10
+00000183,DA,2,talltexan,randy101,CIUDAD DESCONOC,g_hammons@comcast.net,100000,0,200000,0,0,0,0,1,,,10
+00000184,DA,2,moosejoose,keeta2001,CIUDAD DESCONOC,greektortuse@yahoo.ca,100000,0,200000,0,0,0,0,1,,,10
+00000185,,2,xxwebxx,04patsWIN,Somerville,bosox@jrwebster.com,74875,0,182225,0,324,276,182,1,,Webster,20
+00000186,DA,2,sbar1223,babygirl,CIUDAD DESCONOC,sbartush@msn.com,100000,0,200000,0,0,0,0,1,,,10
+00000187,Karl,2,futureshock,kgvq%158,Fredericksburg,futureshock2038@msn.com,0,0,200000,0,0,0,0,1,,Anderson,20
+00000188,DA,2,thegent,scottish,CIUDAD DESCONOC,mail@alanrichardson.com,100000,0,200000,0,0,0,0,1,,,10
+00000189,DA,2,peaches,madison,CIUDAD DESCONOC,g.jones@mchsi.com,100000,0,192750,0,23,14,5,1,,,10
+00000190,,3,mr.poker,123456789,Miami,andrewbejarano15@msn.com,50,0,200000,0,680,598,419,1,,James,20
+00000191,DA,2,poohbear,08121960,CIUDAD DESCONOC,poohbearva@hotmail.com,100000,0,200000,0,0,0,0,1,,,10
+00000192,,2,CSerika,matthias,M,Hubby,0,0,200000,0,0,0,0,1,,,50
+00000193,,2,CardRoomManager,tatumhunter,M,my gf,0,0,0,0,1,1,1,1,,,50
+00000194,,2,CSrick,japscat,M,hobby,0,0,1225000,0,18,16,6,1,,,50
+00000195,,2,csjames,james01,M,pokerfan,179200,0,199100,0,142,109,59,1,,,50
+00000196,,2,csveronica,pepepepe,M,pepethedog,0,0,200000,0,0,0,0,1,,,50
+00000197,,2,sadsa,sadsa,dsddsd,sdds.ss@cuso.com,100000,0,200000,0,0,0,0,1,,,10
+00000198,DA,2,mongoose,jw5357m,CIUDAD DESCONOC,jwelker@parlorcity.com,100000,0,200000,0,0,0,0,1,,,10
+00000199,DA,2,josephshark,limer305,CIUDAD DESCONOC,shark0_0@hotmail.com,100000,0,194500,0,2,2,1,1,,,10
+00000200,DA,2,cristiantesting,cristian,CIUDAD DESCONOC,cris@werwe.com,0,0,200000,0,0,0,0,1,,,10
+00000201,,2,chaco,1234,casd,chaco@valderramas.com,97200,0,200000,0,0,0,0,1,,,10
+00000202,DA,2,desdemicasa,desdemicasa,CIUDAD DESCONOC,mailadf@mail.com,0,0,200000,0,0,0,0,1,,,10
+00000203,DA,2,mauriciogonzalez,mauriciogonzale,CIUDAD DESCONOC,mauriciogonzalez@mauriciogonzalez.com,0,0,200000,0,0,0,0,1,,,10
+00000204,DA,2,steven67,brian123,CIUDAD DESCONOC,billbaker67@hotmail.com,100000,0,200000,0,0,0,0,1,,,10
+00000205,DA,2,primito,primito,CIUDAD DESCONOC,primito@primito.com,100000,0,200000,0,0,0,0,1,,,10
+00000206,,2,leafsfan,shayla18,CIUDAD DESCONOC,kroezeja@sympatico.ca,98750,0,228700,0,387,339,241,1,,,20
+00000207,DA,2,primo78,bigdaddy,CIUDAD DESCONOC,paulakurt3@netzero.com,0,0,200000,0,0,0,0,1,,,10
+00000208,,2,topper,topperx,CIUDAD DESCONOC,ross.edmunds@sympatico.ca,100000,0,331500,0,177,97,52,1,,,20
+00000209,,2,jpplayer,sixty60,CIUDAD DESCONOC,jackiehasdsl@earthlink.net,412825,0,148950,0,1262,884,557,1,,,20
+00000210,Harvey,2,x_h3_x,hclrdesert,Undisclosed,hbundy3@earthlink.net,425300,0,217850,0,592,410,266,1,,Bundy,20
+00000211,rex,2,rexrex,1234567,San Francisco,bigtimewinner@pacbell.net,100000,0,200000,0,0,0,0,1,,latham,10
+00000212,Willam,2,chamillion,michael34,Richmond,mm_5420@yahoo.com,100000,0,233200,0,35,20,11,1,,Merritt,20
+00000213,,3,lawlady,buffalo1,Van Nuys,illysez@adelphia.net,123175,0,198500,0,131,82,62,1,,Zesch,20
+00000214,DA,2,hirollindeuce,12huthut,CIUDAD DESCONOC,pt4301@mac.com,100000,0,200000,0,0,0,0,1,,,10
+00000215,,2,boxybox,annadawn,CIUDAD DESCONOC,boblarsen3@hotmail.com,100000,0,200000,0,0,0,0,1,,,20
+00000216,DA,2,boxyboxy,annadawn,CIUDAD DESCONOC,boblarsen3@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000217,DA,2,simonsez,altosax,CIUDAD DESCONOC,nutsttaight@mail.utexas.edu,100000,0,200000,0,0,0,0,1,,,10
+00000218,DA,2,cparsley,010478,CIUDAD DESCONOC,cparsley4@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000219,eric,2,eatsoap,jahbless,whistler,e_julita@hotmail.com,100000,0,566000,0,320,140,75,1,,julita,20
+00000220,Paul,2,desert ace,t976161,Toronto,pablo71@rogers.com,100000,0,200950,0,3,2,1,1,,Tzouropoulos,20
+00000221,DA,2,michman,cherries,CIUDAD DESCONOC,knlwayt@hotmail.com,100000,0,200000,0,0,0,0,1,,,10
+00000222,James,2,affiliator,123456789,Washington DC,one_r_rose@hotmail.com,438475,0,186300,0,1413,1176,892,1,,James,20
+00000223,DA,2,larrybob,m23p24lb26,Port Jeff. Sta.,lbobrow2@optonline.net,100000,0,197600,0,43,25,16,1,,,10
+00000224,DA,2,james gang,taco370,CIUDAD DESCONOC,jameyplumley@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000225,,2,meandean,bubbles,roseburg,deria@douglasfast.net,0,0,3730100,0,343,249,151,1,,Vaughn,20
+00000226,DA,2,bmac66,KATHLEEN,CIUDAD DESCONOC,bbkmac@comcast.net,100000,0,200000,0,0,0,0,1,,,10
+00000227,,2,reesss,dsadsa,dwsdsada,sads@dsakjdsa.com,100000,0,200000,0,0,0,0,1,,,10
+00000228,DA,2,thenuts,richard,CIUDAD DESCONOC,rs281@aol.com,100000,0,200000,0,0,0,0,1,,,10
+00000229,,2,zzango,xy324566,CIUDAD DESCONOC,kr77@korea.com,100000,0,200000,0,0,0,0,1,,,20
+00000230,,2,spawnn,tulips1,CIUDAD DESCONOC,superfishel@comcast.net,100050,0,202850,0,16,13,7,1,,,20
+00000231,,2,drrob1223,minet123,Phoenixville,robertmarquez579@msn.com,90400,0,200000,0,13,9,3,1,,,20
+00000232,,2,ether4261,ranon1489, ,whitey_88_1961@yahoo.com,100000,0,10705500,0,1085,662,360,1,,,10
+00000233,,2,poppasmurf,fleetwoodmac,CIUDAD DESCONOC,jlwells@pyramid.net,100000,0,200000,0,0,0,0,1,,,20
+00000234,,2,ryeno107,littlerye,CIUDAD DESCONOC,rmurph107@msn.com,100000,0,200000,0,0,0,0,1,,,20
+00000235,DA,2,abbynormal,toad123,CIUDAD DESCONOC,abbynormal.69@netzero.com,100000,0,133750,0,41,29,23,1,,,10
+00000236,,2,desertrat,smitty46,CIUDAD DESCONOC,threeputz@comcast.net,100000,0,176050,0,101,68,33,1,,,20
+00000237,,2,lieut 2,bigdaddy,CIUDAD DESCONOC,dickshirk@comcast.net,100000,0,170000,0,33,26,11,1,,,20
+00000238,DA,2,rndr4life,remember,CIUDAD DESCONOC,reelj182@monetbroadband.net,100000,0,200000,0,0,0,0,1,,,10
+00000239,,2,playmaker,playmaker,CIUDAD DESCONOC,kmag3@juno.com,100000,0,201800,0,33,27,15,1,,,20
+00000240,,2,rounder,remember,CIUDAD DESCONOC,reelj182@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000241,,2,toddlapham,bhs2002,Cape Cod,tlapham@bridgew.edu,480700,0,3684450,0,4281,3089,1718,1,,,20
+00000242,,2,stillballin,gjblagjbla,CIUDAD DESCONOC,bpl0307@hotmail.com,100000,0,200000,0,0,0,0,1,,,20
+00000243,,2,smiley912,2093012,CIUDAD DESCONOC,lookseechoose@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000244,,2,hookecho,meso5151,CIUDAD DESCONOC,hook_echo@yahoo.com,262700,0,271950,0,699,601,404,1,,,20
+00000245,,2,jaime57,password,CIUDAD DESCONOC,mahoneytqm@robsoncom.net,100000,0,739250,0,641,493,287,1,,,20
+00000246,DA,2,desertpoker,bobbyper,CIUDAD DESCONOC,support@kkrekop.io,0,0,200000,0,0,0,0,1,,,10
+00000247,DA,2,mamadeb,bigmama,CIUDAD DESCONOC,ddshirk@comcast.net,100000,0,196750,0,85,69,36,1,,,10
+00000248,,2,tblaze,ptgswsk,CIUDAD DESCONOC,blazer22@hotmail.com,100000,0,200000,0,0,0,0,1,,,20
+00000249,,2,number six,number6,CIUDAD DESCONOC,thieldn@yahoo.com,80000,0,191000,0,142,61,35,1,,,20
+00000250,,2,desdinova,blue0yster1,CIUDAD DESCONOC,jmkica@att.net,122900,0,98000,0,118,48,28,1,,,20
+00000251,,2,postimahn,buysell,CIUDAD DESCONOC,fmbar@rogers.com,100000,0,200000,0,0,0,0,1,,,20
+00000252,Raymond,2,mr king,zapppp1,Kokomo,raymel1@hotmail.com,100000,0,200700,0,2,2,0,1,,King,20
+00000253,,2,colorado-ace,rugermagnum,CIUDAD DESCONOC,rugermagnum@verizon.net,110925,0,198125,0,563,378,269,1,,,20
+00000254,,2,breadnbutter,BRIAN69,CIUDAD DESCONOC,bridog1113@aol.com,100000,0,0,0,2,2,2,1,,,20
+00000255,,2,almightyspork,pokersucks,CIUDAD DESCONOC,than0702@brockport.edu,100000,0,200000,0,0,0,0,1,,,20
+00000256,,2,pricerx,jumpinj,CIUDAD DESCONOC,pricer9@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000257,,2,cashcow,cash1731,CIUDAD DESCONOC,jwadams72@hotmail.com,100000,0,585500,0,726,317,98,1,,,20
+00000258,,2,redkes40,pearljam,CIUDAD DESCONOC,jakessl@siue.edu,100000,0,200000,0,0,0,0,1,,,20
+00000259,,2,ikwyg227,pspn2298,CIUDAD DESCONOC,psingpradith@cox.net,100000,0,200000,0,0,0,0,1,,,20
+00000260,,2,show boat,rockies,CIUDAD DESCONOC,rdsystemswebdesign@earthlink.net,100000,0,204700,0,9,5,3,1,,,20
+00000261,,2,worsttype,blowfish,CIUDAD DESCONOC,m_apman@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000262,,2,marktwain,nikita2004,CIUDAD DESCONOC,rickyjames@email.com,92800,0,200250,0,160,123,98,1,,,20
+00000263,DA,2,testtest,testtest,Omaha,japscat79@yahoo.com,0,0,200000,0,0,0,0,1,,,10
+00000264,,3,salster09,scr33ch,San Jose,salster09@yahoo.com,94450,0,255250,0,445,242,133,1,,Nguyen,20
+00000265,,2,acnrhino1,windowjc,CIUDAD DESCONOC,choicecharter@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000266,DA,2,hooligan,goodest,CIUDAD DESCONOC,robert2310@sbcglobal.net,100000,0,200000,0,0,0,0,1,,,10
+00000267,DA,2,kleecka1021,bscfhlax,Barnstable,meldawgs10@hotmail.com,100000,0,225650,0,1189,657,405,1,,,10
+00000268,DA,2,squillace,bulldog,CIUDAD DESCONOC,jaymail@bellsouth.net,100000,0,597500,0,5,4,3,1,,,10
+00000269,,2,indyturner,agmen1979,CIUDAD DESCONOC,carlabrams@insightbb.com,100000,0,190500,0,37,28,11,1,,,20
+00000270,,2,buckortwo,lumpers,CIUDAD DESCONOC,dbfanatic@earthlink.com,107300,0,200000,0,40,21,10,1,,,20
+00000271,,2,skicowboys,ade3596,CIUDAD DESCONOC,adrian.bennett@virgin.net,100000,0,200000,0,0,0,0,1,,,20
+00000272,DA,2,savagejug,2wingflap,Chattanooga,savageorangejug@yahoo.com,100000,0,239750,0,118,77,37,1,,,10
+00000273,DA,2,raydar,azya1029,CIUDAD DESCONOC,raychafin@msn.com,100000,0,223000,0,11,9,6,1,,,10
+00000274,,2,trippdeuces,poker1159,CIUDAD DESCONOC,stallions@cox.net,495600,0,3781500,0,1455,1219,946,1,,,20
+00000275,DA,2,madelon,madelon,CIUDAD DESCONOC,vanheuveln01@planet.nl,100000,0,200000,0,0,0,0,1,,,10
+00000276,DA,2,zimmrr,unix3100,CIUDAD DESCONOC,larry_hodgson@yahoo.com,100000,0,135750,0,268,197,110,1,,,10
+00000277,DA,2,mrglue,36253625,CIUDAD DESCONOC,jameskonicke@wi.rr.com,100000,0,200000,0,0,0,0,1,,,10
+00000278,DA,2,aceseights,turtle44,CIUDAD DESCONOC,matthewfgb@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000279,DA,2,badboy,DALTON15,CIUDAD DESCONOC,badboyroy15@yahoo.com,100000,0,200000,0,0,0,0,1,,,10
+00000280,,2,mobeydick,4357777,CIUDAD DESCONOC,rhat@775.net,100000,0,222750,0,24,16,7,1,,,20
+00000281,DA,2,shanester69,63galaxie,CIUDAD DESCONOC,shanester69@comcast.net,100000,0,200000,0,0,0,0,1,,,10
+00000282,arash,2,caspiantiger,caspian2212,Atlanta,caspiantiger22@yahoo.com,100000,0,559000,0,25,16,7,1,,caspian,20
+00000283,DA,2,supersharky,v22442244,CIUDAD DESCONOC,dimpre@racsa.co.cr,0,0,274000,0,9,3,2,1,,,10
+00000284,,2,bill167,l84diner,CIUDAD DESCONOC,denovaw@comcast.net,77200,0,200075,0,252,157,119,1,,,20
+00000285,DA,2,bellsman,improvimprov,CIUDAD DESCONOC,lee.bells@sasktel.net,100000,0,200000,0,0,0,0,1,,,10
+00000286,DA,2,jayhem,Stupre69,CIUDAD DESCONOC,jeanmarclaurenthenry@hotmail.com,100000,0,200000,0,0,0,0,1,,,10
+00000287,DA,2,bambino,knast65,CIUDAD DESCONOC,mr.ballatow@home.se,100000,0,200000,0,0,0,0,1,,,10
+00000288,Troy,2,freimts,frymuchan,Madison,frymuchan@charter.net,508800,0,25726150,0,2615,1539,687,1,,Freimuth,20
+00000289,sharron,3,fishnqueen,fishing,savannah,sharroncollings@yahoo.com,408250,0,204225,0,401,326,202,1,,collings,20
+00000290,DA,2,sunshinegirl,tinker35,CIUDAD DESCONOC,kcarebear35@aol.com,100000,0,200000,0,0,0,0,1,,,10
+00000291,DA,2,westwins,mikeanddan,CIUDAD DESCONOC,rwest927@optonline.net,100000,0,191825,0,32,26,18,1,,,10
+00000292,,2,capricorn,0111511,CIUDAD DESCONOC,emeric-k@rogers.com,100000,0,204300,0,135,54,23,1,,,10
+00000293,,2,kebmo2,kebmo123,Greensboro,kmlaw@bellsouth.net,95600,0,0,0,89,36,15,1,,Morse,20
+00000294,,2,HopScotch,tatumhunter,M,aaaa,114000,0,200000,0,461,308,223,1,,,20
+00000295,,2,mnwild8,zachpeo, ,zbpeo@comcast.net,100000,0,198750,0,41,34,27,1,,,20
+00000296,,2,diggidydon,westham, ,m.cornthwaite@ntlworld.com,100000,0,194400,0,73,47,18,1,,,20
+00000297,,2,casahome,sads,ldlkdsl,fafaf@dcoc.com,14500,0,200000,0,0,0,0,1,,,10
+00000298,,2,xman37,clement, ,xlbataille@wanadoo.fr,100000,0,125000,0,34,22,11,1,,,20
+00000299,,2,cristiang,Cristiang, ,mail@crisitan.com,0,0,200000,0,0,0,0,1,,,10
+00000300,,2,teefor4,satellite, ,jlaw300@comcast.net,100000,0,200000,0,0,0,0,1,,,20
+00000301,,2,dev_desert,dev_desert,city,mymail@test.com,0,0,200000,0,0,0,0,1,,,10
+00000302,,2,feresas,dskija,duyhdfha,dskjsa@okikgf.com,0,0,200000,0,0,0,0,1,,,10
+00000303,,2,oneeyedjoel,meredith,stillwater,joel_edge@hotmail.com,171200,0,607500,0,306,195,117,1,,edge,20
+00000304,,2,nuevo_test,nuevo_test,cit,mymail@newtest.com,0,0,200000,0,0,0,0,1,,,10
+00000305,,2,test_1234,test_1234,test_1234,test_1234@test_1234.com,0,0,200000,0,0,0,0,1,,,10
+00000306,,2,unaprueba,unaprueba,city,nuevo@mail.com,0,0,200000,0,0,0,0,1,,,10
+00000307,,2,unaprueba_nueva,unaprueba_nueva,unaprueba_nueva,unaprueba_nueva@l.com,0,0,200000,0,0,0,0,1,,,10
+00000308,,2,unaprueba_nueva2,unaprueba_nueva,unaprueba_nueva,unaprueba_nueva2@l.com,0,0,200000,0,0,0,0,1,,,10
+00000309,,2,unaprueba_nueva3,#select_id_play,unaprueba_nueva,unaprueba_nueva3@l.com,0,0,200000,0,0,0,0,1,,,10
+00000310,,2,unaprueba_nueva4,#select_id_play,unaprueba_nueva,unaprueba_nueva4@l.com,0,0,200000,0,0,0,0,1,,,10
+00000311,,2,otramas,otramas,otramas,otramas@mail.com,0,0,200000,0,0,0,0,1,,,10
+00000312,,2,yesterday,masejake, ,kellyamberson@hotmail.com,100000,0,200000,0,0,0,0,1,,,20
+00000313,,2,apostador,apostador,ciudad,email@myc.com,0,0,200000,0,0,0,0,1,,,10
+00000314,,2,topaction,topaction, ,whatever@yahoo.com,100000,0,197000,0,3,1,1,1,,,20
+00000315,,2,nicusd4,cap4cap4,Atlanta,n-compas@mindspring.com,100000,0,540000,0,128,26,3,1,,Caplan,20
+00000316,,2,scohen1,december, ,info@sagi.com,100000,0,212400,0,29,25,18,1,,,20
+00000317,,2,milk_money,kman9911, ,kman9911@hotmail.com,100000,0,200000,0,0,0,0,1,,,20
+00000318,,2,got_trips?,dookie18,St. John,todd.seagraves@sbcglobal.net,191000,0,170000,0,69,36,20,1,,Seagraves,20
+00000319,,2,one2watch4,jennifer, ,dorkybastard@earthlink.net,100000,0,1122500,0,321,167,52,1,,,20
+00000320,,2,kunugi,forky01, ,ejk2@u.washington.edu,100000,0,182700,0,18,10,4,1,,,20
+00000321,,2,cristiannuevo,cristiannuevo,Cruz del Sur,cristiannuevo@mail.com,0,0,10000000,0,0,0,0,1,,,10
+00000322,,2,crisemedia,cristian2,C,cristian@e-mediasoftware.com,0,0,200000,0,32,22,13,1,,,10
+00000323,,2,jabwocky,429spine, ,jabwocky@comcast.net,100000,0,200000,0,0,0,0,1,,,10
+00000324,,2,lhorn1,dubleduc, ,alsteph1@cox.net,100000,0,200000,0,0,0,0,1,,,10
+00000325,,2,jaysyn77,toojpy77, ,jaysyn77@aol.com,100000,0,200000,0,0,0,0,1,,,20
+00000326,,2,yyyaaakk,jds,dskjj,kdsa@dk.com,2432300,0,200000,0,0,0,0,1,,,10
+00000327,John,2,smitsmth8,jds5768,Logansport,john.smith1@insightbb.com,0,0,202550,0,214,103,55,1,,Smith,20
+00000328,,2,buffers1983,gsurules, ,mbaughman1@student.gsu.edu,100000,0,200000,0,0,0,0,1,,,20
+00000329,,2,fredbird,729h225, ,123jump@jobe.net,100000,0,187500,0,478,260,112,1,,,20
+00000330,,2,djsleeps,1q2w3e4, ,djsleeps22@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000331,,2,bozzzz,jakester, ,rdurels@optonline.net,100000,0,200000,0,0,0,0,1,,,20
+00000332,,2,firefly88,POKERFREAK, ,firefly1668@hotmail.com,100000,0,208000,0,42,18,12,1,,,20
+00000333,cris,3,misscris,10081944,sussex,chrisstoy@earthlink.net,153750,0,654700,0,112,80,53,1,,ridner,20
+00000334,,2,wagercity,grandvirtual, ,dgoddu@grandvirtual.com,100000,0,200000,0,0,0,0,1,,,20
+00000335,,2,damnthathurt,bullsh29, ,cuddlinman@comcast.net,100000,0,202650,0,52,27,19,1,,,20
+00000336,,2,baoboa,n1ngforsk, ,benjsimo@dd.chalmers.se,100000,0,200000,0,0,0,0,1,,,20
+00000337,,2,afink93,, ,afink93@snet.net,100000,0,207500,0,9,3,0,1,,,20
+00000338,,2,thespook,9994199, ,redman1960.1@juno.com,100000,0,200000,0,0,0,0,1,,,20
+00000339,Amy,3,beansoup,143jane,Manchester,ajdowning@comcast.net,44000,0,1411800,0,517,299,195,1,,Downing,20
+00000340,SCOTT,2,dirtyhairy,polack1,NEW YORK,higgiano@hotmail.com,100000,0,195500,0,33,15,5,1,,LEVY,20
+00000341,,2,ckthedj,rurururu, ,kolbc@bellsouth.net,100000,0,200000,0,0,0,0,1,,,20
+00000342,,2,hold em,lisa1012, ,mgiaccone@reepsappraisals.com,100000,0,375400,0,429,183,111,1,,,20
+00000343,,2,unnnuevodownload,unnnuevodownload,city,mauricio10@mail.com,0,0,200000,0,0,0,0,1,,,10
+00000344,,2,nuevaprueba10,nuevaprueba10,city,wsdmailadf@mail.com,0,0,200000,0,0,0,0,1,,,10
+00000345,,2,manamarash,caspian2212,Atlanta,arashcaspian@hotmail.com,100000,0,200000,0,0,0,0,1,,,20
+00000346,,2,viking714,password,Coral Springs F,bgroll@bellsouth.net,100000,0,202200,0,3,1,0,1,,,20
+00000347,,2,kominski,splinter,Brockton,spfrench@comcast.net,220275,0,200000,0,882,757,611,1,,,20
+00000348,,2,tabletoptom,tabletoptom,Riverside,123456789@yahoo.com,100000,0,200100,0,31,9,5,1,,,20
+00000349,,2,habib1,ra160557,sanjose,tracopa@racsa.co.cr,0,0,200000,0,0,0,0,1,,,10
+00000350,,2,meeklet,magnumti,Houston,meeklet@sbcglobal.net,100000,0,295000,0,115,66,33,1,,,10
+00000351,,3,Pokerqueen,nicolas,Miami,lenanomel@hotmail.com,122250,0,200000,0,103,63,36,1,,Johansen,20
+00000352,,2,azuredoc,2azure8,Miami,1234@hotmail.com,101000,0,200000,0,19,13,8,1,,,20
+00000353,,2,isustud,mathdude,naperville,isustud@shadowdragon.net,100000,0,200000,0,0,0,0,1,,,10
+00000354,shahrzad,3,nanesheiju,maradona,san jose,shahrzi@hotmail.com,100000,0,200000,0,0,0,0,1,,nassiri,20
+00000355,,2,csvfd8,brennan8,villa hills,dcking@fuse.net,100000,0,4031800,0,1735,1126,848,1,,,10
+00000356,,2,sativa,justin00,louisville,bodner9@yahoo.com,0,0,200000,0,0,0,0,1,,,20
+00000357,,2,oneaccountnew,123123123,male,oneaccountnew@ps.co.cr,0,0,200000,0,0,0,0,1,,,10
+00000358,,2,esmitperez999,123123123,male,esmitperez@untset.com,0,0,200000,0,0,0,0,1,,,10
+00000359,,2,rounder_guy,blackjack,None,jdheise@hotmail.com,100000,0,210200,0,111,58,26,1,,,20
+00000360,,2,fire876,rjc042595,Wichita,rscott111@cox.net,100000,0,155000,0,54,32,27,1,,,20
+00000361,,2,rootwurm,ftlomdgt,Lexington,torre_ezboard@techreflex.com,100000,0,200000,0,0,0,0,1,,,20
+00000362,,2,jb_1997_mcd,livin123,Philadelphia,jshapot7@comcast.net,100000,0,200000,0,0,0,0,1,,,20
+00000363,,2,$tizzled,69jublove,Dallas,martin@wearetall.com,100000,0,196600,0,9,3,1,1,,,20
+00000364,,2,diesel127,pepper8,New Baltimore,dzlz127@comcast.net,100000,0,200000,0,0,0,0,1,,,20
+00000365,,2,viva11,kolibri,Vienna,erika.mueller@chello.at,100000,0,200000,0,0,0,0,1,,,20
+00000366,,2,couch-spud,buki498,butler,buki498@earthlink.net,2900,0,414500,0,515,387,251,1,,,20
+00000368,,2,kingboyk,beastieboys,Cheltenham,steve@sdk-software.com,100000,0,200000,0,0,0,0,1,,Kennedy,20
+00000369,,2,weinamac,aricelia,baltimore,weinamas@comcast.net,100000,0,200000,0,0,0,0,1,,,20
+00000370,,2,raiseitonup,36363636,louisville,mitchinky@insightbb.com,0,0,541500,0,716,413,211,1,,,20
+00000371,,2,col_mustard,dr82582,salt lake city,miata88@earthlink.net,100000,0,200000,0,0,0,0,1,,,20
+00000372,,2,philphan,alvezin!,Toronto,alvez@rogers.com,100000,0,200000,0,0,0,0,1,,,20
+00000373,,2,pventura,joss5677,Thousand Oaks,p.ventura@verizon.net,100000,0,200000,0,0,0,0,1,,,20
+00000374,,2,download,pass,C,root,0,0,200000,0,0,0,0,1,,,10
+00000376,,2,carnivore,pharleigh,Glenwood Spring,bluechicken@sopris.net,100000,0,274500,0,231,113,47,1,,,20
+00000377,,2,arabestan,arabestan,gorgan,aracas@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000378,,2,shirtman,burger1,great falls,rugrat-4@earthlink.net,100000,0,162700,0,58,41,19,1,,,20
+00000379,,2,elchavo2,delocho,La Vecindad,ch@vo.com2,0,0,200000,0,0,0,0,1,,,10
+00000380,,2,rhino1,pepenacho,Lemoore,rolland_fowler@comcast.net,100000,0,518300,0,1350,731,316,1,,,20
+00000381,,2,konaflyer,lovejet,male,konaflyer@yahoo.com,0,0,149500,0,289,119,49,1,,,20
+00000382,,2,thy g.o.a.t.,mycobra98,West Bend,mwillavage@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000384,Michael,2,holdemdawg,glazier,Colorado Spring,mbeaty@adelphia.net,167550,0,2570000,0,627,447,271,1,,Beaty,20
+00000385,,2,,,,,0,0,200000,0,0,0,0,1,,,10
+00000386,,2,bassducky,s0m41r0t,New Albany,michael@bornyesterday.net,118550,0,195000,0,120,71,48,1,,,20
+00000387,,2,catwrangle,catwrangle1,roxbury,sevanuska@earthlink.net,100000,0,280000,0,31,16,5,1,,,20
+00000389,,2,chrischaos,reraise,Stony mountain,crisbren@mts.net,100000,0,200000,0,0,0,0,1,,,10
+00000390,,2,quinro,hotstuff,Maple Ridge,robertq@telus.net,100000,0,200000,0,0,0,0,1,,,10
+00000391,,2,koski,little,belleville,roy300m@comcast.net,0,0,200000,0,0,0,0,1,,,10
+00000392,,2,chipraker,bob1234,Nashville,jp@phillipsassistedliving.com,100000,0,237800,0,99,62,27,1,,,20
+00000393,,2,pimpinmonkie,461979711,SAN JOSE,pimpinmonkie711@yahoo.com,100000,0,390600,0,276,193,148,1,,,20
+00000394,,2,parranormal,fajolis,sydney,parranormal@swiftdsl.com.au,100000,0,200000,0,0,0,0,1,,,20
+00000395,,2,zeuser,1234567,mars,zeuser@rogers.com,100000,0,198450,0,3,2,2,1,,,20
+00000396,,2,afftester,test,YES,guacha@gula.com,60000,0,200000,0,0,0,0,1,,,10
+00000397,,2,kmckiou,ronaldo1,Naperville,kmckiou@hotmail.com,100000,0,200000,0,0,0,0,1,,,20
+00000398,,2,butterfly,nbf0202,Richmond Hill,nida.florentino@sympatico.ca,100000,0,376000,0,377,199,87,1,,,20
+00000399,,2,lostit,milton54,Atlanta,jdsteinberg@bellsouth.net,100000,0,200000,0,0,0,0,1,,,20
+00000400,,2,snooterboy,my1shaver,Va. Beach,holein1athellspt@aol.com,100000,0,426000,0,146,62,42,1,,,20
+00000401,,2,dougfunnie831,dustinv,West Lafayette,dougfunnie831@yahoo.com,100000,0,12880000,0,1322,781,270,1,,,20
+00000402,,2,tin man,password,Las Vegas,mikehenry@cox.net,100000,0,4624100,0,1947,789,323,1,,,20
+00000403,,2,bkevinmar,marlene,san diego,bkevinmar@yahoo.com,100000,0,200550,0,11,7,5,1,,,20
+00000404,,2,desert_rat,442944dp,Flagstaff,woodpeckergawd@yahoo.com,100000,0,200000,0,0,0,0,1,,,20
+00000405,,2,sooner008,baseball8,richardson,sooner008@ziplip.com,100000,0,200000,0,0,0,0,1,,,20
+00000406,,2,hogger,beverly6,Dover,tim419@comcast.net,100000,0,200000,0,0,0,0,1,,,20
+00000407,,2,millaisme,DDIGGLER,janesville,thisismiller@hotmail.com,100000,0,418500,0,96,57,25,1,,,20
+00000408,,2,sumdumguy,addison,Saskatoon,sumdumguy@shaw.ca,100000,0,200000,0,0,0,0,1,,,10
+00000409,,2,silverbed49,dk100169,Undisclosed,kruse@magiccablepc.com,100000,0,198200,0,72,47,18,1,,,20
+00000410,,2,aval002,jcodell,montgomery,cjodell@charter.net,173400,0,5422750,0,319,231,132,1,,,20
+00000411,,2,oregonhunter,tylerjames,Eugene,jtlewis3736@comcast.com,100000,0,200000,0,0,0,0,1,,,20
+00000412,,2,murday(+)p(+)ckets,warrior,san jose,redsavsc@aol.com,100000,0,200000,0,0,0,0,1,,,20
+00000413,,2,torpedos,ABJCBLXM6,san jose,tijocr@hotmail.com,100000,0,200900,0,7,4,1,1,,,20
+00000414,,2,maverick79,houstonastros,Houston,jwilsontennis@aol.com,100000,0,200000,0,0,0,0,1,,,20
+00000415,,2,gendertest.,gendertest.,male,gendertest@mail.com,0,0,200000,0,0,0,0,1,,,10
+00000416,,2,pokerman,pokerman,Alabama,test123@yahoo123.com,0,0,200000,0,0,0,0,1,,,20
+00000417,,2,enjendro,cristian,Bostezo,cris@bostezo.com,0,0,200000,0,0,0,0,1,,,10
+00000418,,2,carloshomez,11740107,Miami,carloshomez@hotmail.com,100000,0,234000,0,23,20,14,1,,,20
+00000419,,2,alex_gor,lgpoker,Montreal,alex@gonetmedia.com,0,0,199400,0,1,1,0,1,,,10
+00000420,,2,sendit,matty33,vista,rboone16@cox.net,0,0,198250,0,26,13,4,1,,,10
+00000421,,2,>>>ap<<<,DAWGGGG,OKEECHOBEE,alanfutures@wmconnect.com,100000,0,200000,0,0,0,0,1,,,20
+00000422,,2,testing,1234567,pluto,pluto@testing.com,0,0,200000,0,0,0,0,1,,,10
+00000423,,2,costablum,costarica,Male,costablum@yahoo.com,0,0,176500,0,77,77,41,1,,,10
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
+00000000,,0,,,,,0,0,0,0,0,0,0,0,,,0
